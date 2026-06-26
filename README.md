@@ -29,7 +29,6 @@
 
 📫 **Connect with Me**
 - 🌐 [Facebook](https://www.facebook.com/roum.aissa.9461) 
-- ✨ [Portfolio](portfolio-tazairt-roumaissa.netlify.app)
 - 📧 Email: r.tazairt@univ-boumerdes.dz  
 
 🏆 **Fun Facts**
