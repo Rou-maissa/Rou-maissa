@@ -29,7 +29,8 @@
 
 📫 **Connect with Me**
 - 🌐 [Facebook](https://www.facebook.com/roum.aissa.9461) 
-- 📧 Email: r.tazairt@univ-boumerdes.dz  
+- 📧 [Email](r.tazairt@univ-boumerdes.dz)
+- 🌟 [Portfolio](portfolio-tazairt-roumaissa.netlify.app)
 
 🏆 **Fun Facts**
 - 💡 Turning AI concepts into hands-on projects is my favorite hobby  
