@@ -11,7 +11,7 @@
 🚀 **About Me**
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**  
 - 🧠 Building projects that combine **Computer Vision**, **Embedded Systems**, and **Robotics**  
-- 🚗 Developing a Moodle plugin integrated with LumiCourse for automated assignment grading as part of my EdoraLMS internship.  
+- 🚗 Currently Developing a Moodle plugin integrated with LumiCourse for automated assignment grading as part of my EdoraLMS internship.  
 - 🌱 Constantly learning new frameworks, algorithms, and AI techniques  
 - 💡 Love turning research and ideas into **real-world AI applications**  
 
